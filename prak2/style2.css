@@ -1,0 +1,92 @@
+/* Inori Muira Sitanggang | 121140020 | RB */
+
+.container {
+    margin-left: 5rem;
+    margin-right: 5rem;
+    background-color: rgb(147, 157, 114);
+    
+}
+
+.head {
+    padding: 20px;
+    display: flex;
+    background-color: rgb(96, 105, 64);
+    justify-content: start;
+    align-items: center;
+}
+
+.gambar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+}
+
+.side {
+    margin-left: 20px;
+    color: white;
+    font-family:'Trebuchet MS';
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(223, 238, 189, 0.696);
+}
+
+.menu {
+    list-style: none;
+    padding: 20px;
+    font-family:'Trebuchet MS';
+    border-style:outset;
+    border-radius: 10px;
+    border-color: rgb(237, 228, 224)
+}
+
+.tentang {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.tentang h2 {
+    color: rgb(0, 0, 0);
+    
+}
+
+.tentang div {
+    display: flex;
+    justify-content: center;
+}
+
+.tentang video {
+    width: 300px;
+
+}
+
+.pengalaman {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.pengalaman table {
+    width: 100%;
+}
+
+.form {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.btn {
+    background-color: rgb(147, 157, 114);
+    color: white;
+    padding: 10px;
+}
