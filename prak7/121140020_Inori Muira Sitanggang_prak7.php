@@ -1,5 +1,5 @@
 <!-- Inori Muira Sitanggang - 121140020  -->
-<!-- Praktikum Pemrograman Web RB - Tugas 7 -->
+<!-- Praktikum Pemrograman Web RB Tugas 7 -->
 
 <?php
 
